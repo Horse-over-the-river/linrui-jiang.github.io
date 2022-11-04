@@ -70,7 +70,7 @@ academics:
 
 ## ***Honors & Awards***
 ###### **Ministry of Education of the People's Republic of China** People's Republic of China
-China National Scholarship (Top 1.5% Nationally) @ Nov. 2022
+- China National Scholarship (Top 1.5% Nationally) @ Nov. 2022
 
 ## ***News***
 Jiang, Linrui would take part in the active named *Progress Together*[^2] held by School of Electronic Science and Technology, from 2022 to 2023. At this moment, he is interested in the information asymmetries when applying to graduate colleges. Any fellows who have these qualifications written at under are welcomed to contact and share the understandings in the application progress with each other.
@@ -79,8 +79,8 @@ Jiang, Linrui would take part in the active named *Progress Together*[^2] held b
 2) Interested in the career planning;
 3) Passion and ability for innovation and excellent.
 
-If would like to join, please feel free to send your statement (Including Why you are fancy in & What do you plan to) and any other materials (if you wish) to jianglinrui@foxmail.com with the title of the email “Fellow Application – Your Name”. When choosing to be in the active Progress Together jointly, the deadline is 9th November. But there is not deadline if just choosing to discuss and not to participate in the active.
+If would like to join, please feel free to send your statement (Including Why you are fancy in & What do you plan to) and any other materials (if you wish) to jianglinrui@foxmail.com with the title of the email “Fellow Application – Your Name”. When choosing to be in the active Progress Together jointly, the deadline is 9th November, 23:00 Beijing Time. But there is not deadline if just choosing to discuss and not to participate in the active.
 
 
 [^1]: https://shadereditor.kaust.edu.sa/view/?name=dino&user=donggang
-[^2]:https://www.ese.uestc.edu.cn/info/5087/16157.htm
+[^2]: https://www.ese.uestc.edu.cn/info/5087/16157.htm
