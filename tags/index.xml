@@ -1,1 +1,83 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Jiang, Linrui</title><link>http://blog.linrui-jiang.website/tags/</link><description>Recent content in Tags on Jiang, Linrui</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 11 Jan 2021 16:12:29 -0700</lastBuildDate><atom:link href="http://blog.linrui-jiang.website/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>ai</title><link>http://blog.linrui-jiang.website/tags/ai/</link><pubDate>Mon, 11 Jan 2021 16:12:29 -0700</pubDate><guid>http://blog.linrui-jiang.website/tags/ai/</guid><description/></item><item><title>deep_learning</title><link>http://blog.linrui-jiang.website/tags/deep_learning/</link><pubDate>Mon, 11 Jan 2021 16:12:29 -0700</pubDate><guid>http://blog.linrui-jiang.website/tags/deep_learning/</guid><description/></item><item><title>neural_networks</title><link>http://blog.linrui-jiang.website/tags/neural_networks/</link><pubDate>Mon, 11 Jan 2021 16:12:29 -0700</pubDate><guid>http://blog.linrui-jiang.website/tags/neural_networks/</guid><description/></item><item><title>ml</title><link>http://blog.linrui-jiang.website/tags/ml/</link><pubDate>Tue, 12 May 2020 16:11:56 -0700</pubDate><guid>http://blog.linrui-jiang.website/tags/ml/</guid><description/></item><item><title>startups</title><link>http://blog.linrui-jiang.website/tags/startups/</link><pubDate>Tue, 12 May 2020 16:11:56 -0700</pubDate><guid>http://blog.linrui-jiang.website/tags/startups/</guid><description/></item><item><title>deep-learning</title><link>http://blog.linrui-jiang.website/tags/deep-learning/</link><pubDate>Fri, 07 Jun 2019 16:04:19 -0700</pubDate><guid>http://blog.linrui-jiang.website/tags/deep-learning/</guid><description/></item><item><title>machine-learning</title><link>http://blog.linrui-jiang.website/tags/machine-learning/</link><pubDate>Fri, 07 Jun 2019 16:04:19 -0700</pubDate><guid>http://blog.linrui-jiang.website/tags/machine-learning/</guid><description/></item><item><title>economy</title><link>http://blog.linrui-jiang.website/tags/economy/</link><pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate><guid>http://blog.linrui-jiang.website/tags/economy/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Jiang, Linrui</title>
+    <link>http://blog.linrui-jiang.website/tags/</link>
+    <description>Recent content in Tags on Jiang, Linrui</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Jan 2021 16:12:29 -0700</lastBuildDate><atom:link href="http://blog.linrui-jiang.website/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ai</title>
+      <link>http://blog.linrui-jiang.website/tags/ai/</link>
+      <pubDate>Mon, 11 Jan 2021 16:12:29 -0700</pubDate>
+      
+      <guid>http://blog.linrui-jiang.website/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep_learning</title>
+      <link>http://blog.linrui-jiang.website/tags/deep_learning/</link>
+      <pubDate>Mon, 11 Jan 2021 16:12:29 -0700</pubDate>
+      
+      <guid>http://blog.linrui-jiang.website/tags/deep_learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neural_networks</title>
+      <link>http://blog.linrui-jiang.website/tags/neural_networks/</link>
+      <pubDate>Mon, 11 Jan 2021 16:12:29 -0700</pubDate>
+      
+      <guid>http://blog.linrui-jiang.website/tags/neural_networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ml</title>
+      <link>http://blog.linrui-jiang.website/tags/ml/</link>
+      <pubDate>Tue, 12 May 2020 16:11:56 -0700</pubDate>
+      
+      <guid>http://blog.linrui-jiang.website/tags/ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>startups</title>
+      <link>http://blog.linrui-jiang.website/tags/startups/</link>
+      <pubDate>Tue, 12 May 2020 16:11:56 -0700</pubDate>
+      
+      <guid>http://blog.linrui-jiang.website/tags/startups/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep-learning</title>
+      <link>http://blog.linrui-jiang.website/tags/deep-learning/</link>
+      <pubDate>Fri, 07 Jun 2019 16:04:19 -0700</pubDate>
+      
+      <guid>http://blog.linrui-jiang.website/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine-learning</title>
+      <link>http://blog.linrui-jiang.website/tags/machine-learning/</link>
+      <pubDate>Fri, 07 Jun 2019 16:04:19 -0700</pubDate>
+      
+      <guid>http://blog.linrui-jiang.website/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>economy</title>
+      <link>http://blog.linrui-jiang.website/tags/economy/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.linrui-jiang.website/tags/economy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
