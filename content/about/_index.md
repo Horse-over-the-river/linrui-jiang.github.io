@@ -30,7 +30,7 @@ affiliations:
     #    name: "The Coolest Startup In the World"
     #    email: "email@mycoolstartup.ai"
 
-education:
+academics:
     #- course:
     #    degree: "Ph.D."
     #    institution:  "Stanford University"
@@ -53,12 +53,34 @@ education:
         end_date: ''
     #    other_info: 'graduated with first class honor, supervised by Prof.  Cool!'
 ---
+## ***Education***
+###### **University of Electronic Science and Technology of China (UESTC)** Chengdu, China
+###### ***B.Eng. of Electronic Science and Technology*** *Sept. 2020 -- Present*
+- **GPA:** 3.92/4.00 | **Average Score:** 93.08/100 | **Ranking:** 2/159
+- **Core Courses:** Quantum Mechanics (98) | Thermodynamic & Statistics Physics (97) | Electromagnetic Field & Microwave (94) | Signals & Systems (99) | Circuit Analysis & Electronic Circuit (94) | Application & Design of Digital Logic (96)
 
-**Education**
+## ***Project Experience***
+###### **Realization of Chrome Dino Game Based on WGSL** Thuwal, SA
+###### ***Project Lead*** *June. 2022 -- July. 2022*
+- Using the latest generation of Web GPU Shading Language (WGSL), our group reproduced a game named T-Rex Chrome Dino Game[^1] in the span of two weeks. The main modules of the game, which included circular display the background, motion with interaction, random obstacles and collision detection, were substantially realized. Finally, we were honored to have gotten acknowledgement and a letter of recommendation from our supervisor.
 
-**Donec** sollicitudin, [ante][1] pulvinar tincidunt luctus, dolor mauris lobortis ex, id tincidunt metus risus nec ex. Curabitur magna mauris, facilisis vitae porttitor vitae, tincidunt sed mi. In at dui lectus. Integer ante arcu, vestibulum fermentum ante eu, maximus maximus quam. Curabitur placerat cursus posuere. Phasellus dui lorem, varius a augue non, eleifend accumsan mauris. Aenean varius posuere feugiat. In hac habitasse platea dictumst. Aenean quis ex quis nisl consequat fermentum in vitae nunc. Proin consectetur ac nulla in tempus. Maecenas enim nisi, pulvinar sit amet fermentum eget, ultrices vitae enim. Etiam vel sollicitudin felis.
+###### **Carbon Fiber Material Detection based on Projection Imaging** Chengdu, China
+###### ***Project Lead*** *Mar. 2021 -- Sept. 2021*
+- By verifying the feasibility of the detection of carbon fiber material using terahertz waves, which performs superior in noninvasive domain, the project successfully realized the detection and imaging of the chosen material. This project was carried out with the aid of LabVIEW. Finally, our group was credited 99/100 points in the course.
+
+## ***Honors & Awards***
+###### **Ministry of Education of the People's Republic of China** People's Republic of China
+China National Scholarship (Top 1.5% Nationally) @ Nov. 2022
+
+## ***News***
+Jiang, Linrui would take part in the active named *Progress Together*[^2] held by School of Electronic Science and Technology, from 2022 to 2023. At this moment, he is interested in the information asymmetries when applying to graduate colleges. Any fellows who have these qualifications written at under are welcomed to contact and share the understandings in the application progress with each other.
+
+1) Planning to be a MPhil/MSc/PhD; 
+2) Interested in the career planning;
+3) Passion and ability for innovation and excellent.
+
+If would like to join, please feel free to send your statement (Including Why you are fancy in & What do you plan to) and any other materials (if you wish) to jianglinrui@foxmail.com with the title of the email “Fellow Application – Your Name”. When choosing to be in the active Progress Together jointly, the deadline is 9th November. But there is not deadline if just choosing to discuss and not to participate in the active.
 
 
-te pulvinar tincidunt luctus, dolor mauris lobortis ex, id tincidunt metus risus nec ex. Curabit 中文
-
-[1]: ahadsfsa.com
+[^1]: https://shadereditor.kaust.edu.sa/view/?name=dino&user=donggang
+[^2]:https://www.ese.uestc.edu.cn/info/5087/16157.htm

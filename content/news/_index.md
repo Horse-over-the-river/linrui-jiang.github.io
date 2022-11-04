@@ -25,7 +25,7 @@ news_items:
 - text: "How to give a communicative research talk?"
   link: "/en/talks/how-to-give-a-communicative-research-talk/"
   extra_text: "Software Engineering Daily Podcast, Jan. 2020."
-  icon: "youtube"
+ # icon: "youtube"
   date: 2020-11-20
 - text: "The new era of software engineering"
   link: https://https://feathericons.com//
