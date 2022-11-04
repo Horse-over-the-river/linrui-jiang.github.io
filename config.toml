@@ -1,4 +1,4 @@
-baseURL = "https://horse-over-the-river.github.io/"
+baseURL = "http://blog.linrui-jiang.website/"
 
 # set your your own ga token here.
 googleAnalytics = "UA/G-123123-12"
