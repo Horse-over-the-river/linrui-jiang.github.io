@@ -22,7 +22,7 @@ socials:
 
 affiliations:
     - affiliation:
-        title: "B.Eng Candidate"
+        title: "B.Eng. Candidate"
         name: "University of Electronic Science and Technology of China"
         email: "linrui.larry.jiang@gmail.com"
     #- affiliation:
