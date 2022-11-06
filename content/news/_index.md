@@ -1,6 +1,6 @@
 ---
 title: "news"
-date: 2020-11-20T17:51:47+03:30
+date: 2020-11-20T17:51:47+03:31
 draft: false
 headless: true
 
