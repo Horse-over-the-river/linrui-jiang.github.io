@@ -48,7 +48,7 @@ h2 code {
 }
 
 .main_color  {
-    color: #8C1515;
+    color: #044096;
 }
 
 .secondary_color {
@@ -68,9 +68,8 @@ h2 code {
 }
 
 #profile_picture  {
-    width: 20%;
+    width: 100%;
     height: auto;
-    margin-top: 1%;
 }
 
 .about #full_name {
@@ -270,4 +269,15 @@ h2 code {
 
 .read_more {
     margin-top: 1%;
+}
+
+/* Custom CSS */
+
+.profile-wrapper {
+    border-radius: 50%;
+    width: 216px;
+    height: 216px;
+    margin: auto;
+    margin-top: 10px;
+    overflow: hidden;
 }
