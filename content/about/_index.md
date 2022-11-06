@@ -73,7 +73,7 @@ academics:
 - China National Scholarship (Top 1.5% Nationally) @ Nov. 2022
 
 ## ***News***
-Linrui would take part in the active named *Progress Together*[^2] held by School of Electronic Science and Technology, from 2022 to 2023. At this moment, he is interested in the information asymmetries when applying to graduate colleges. Any fellows who have these qualifications written at under are welcomed to contact and share the understandings in the application progress with each other.
+Linrui Jiang would take part in the active named *Progress Together*[^2] held by School of Electronic Science and Technology, from 2022 to 2023. At this moment, he is interested in the information asymmetries when applying to graduate colleges. Any fellows who have these qualifications written at under are welcomed to contact and share the understandings in the application progress with each other.
 
 1) Planning to become a MPhil/MSc/PhD; 
 2) Interested in the career planning;
