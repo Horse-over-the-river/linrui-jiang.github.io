@@ -56,7 +56,7 @@ academics:
 ## ***Education***
 ###### **University of Electronic Science and Technology of China (UESTC)** Chengdu, China
 ###### ***B.Eng. of Electronic Science and Technology*** *Sept. 2020 -- Present*
-- **GPA:** 3.92/4.00 | **Average Score:** 93.08/100 | **Ranking:** 2/159
+- **GPA:** 3.92/4.00 | **Average Score:** 93.08/100 | **Ranking:** 2/160
 - **Core Courses:** Quantum Mechanics (98) | Thermodynamic & Statistics Physics (97) | Electromagnetic Field & Microwave (94) | Signals & Systems (99) | Circuit Analysis & Electronic Circuit (94) | Application & Design of Digital Logic (96)
 
 ## ***Project Experience***
@@ -79,7 +79,7 @@ Linrui would take part in the active named *Progress Together*[^2] held by Schoo
 2) Interested in the career planning;
 3) Passion and ability for innovation and excellent.
 
-If would like to join, please feel free to send your statement (Including Why you are fancy in & What do you plan to) and any other materials (if you wish) to jianglinrui@foxmail.com with the title of the email “Fellow Application – Your Name”. When choosing to be in the active Progress Together jointly, the deadline is 11th November, 23:00 Beijing Time. But there is not deadline if just choosing to discuss and not to participate in the active.
+If would like to join, please feel free to send your statement (Including Why you are fancy in & What do you plan to) and any other materials (if you wish) to jianglinrui@foxmail.com with the title of the email “Fellow Application – Your Name”. When choosing to be in the active Progress Together jointly, the deadline is 18th November, 23:00 Beijing Time. But there is not deadline if just choosing to discuss and not to participate in the active.
 
 
 [^1]: https://shadereditor.kaust.edu.sa/view/?name=dino&user=donggang
