@@ -79,7 +79,7 @@ Linrui would take part in the active named *Progress Together*[^2] held by Schoo
 2) Interested in the career planning;
 3) Passion and ability for innovation and excellent.
 
-If would like to join, please feel free to send your statement (Including Why you are fancy in & What do you plan to) and any other materials (if you wish) to jianglinrui@foxmail.com with the title of the email “Fellow Application – Your Name”. When choosing to be in the active Progress Together jointly, the deadline is 18th November, 23:00 Beijing Time. But there is not deadline if just choosing to discuss and not to participate in the active.
+If would like to join, please feel free to send your statement (Including Why you are fancy in & What do you plan to) and any other materials (if you wish) to jianglinrui@foxmail.com with the title of the email “Fellow Application – Your Name”. When choosing to be in the active Progress Together jointly, the deadline is 16th November, 16:00 Beijing Time. But there is not deadline if just choosing to discuss and not to participate in the active.
 
 
 [^1]: https://shadereditor.kaust.edu.sa/view/?name=dino&user=donggang
